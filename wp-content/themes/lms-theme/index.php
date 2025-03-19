@@ -55,7 +55,7 @@
         <div class="features-content">
           <div class="row">
             <div class="col-lg-12">
-              <div class="features-item first-feature wow fadeInUp mb-5" data-wow-duration="1s" data-wow-delay="0s">
+              <div class="features-item first-feature wow fadeInUp mb-5 mb-5" data-wow-duration="1s" data-wow-delay="0s">
                 <div class="first-number number">
                   <h6>01</h6>
                 </div>
@@ -66,7 +66,7 @@
               </div>
             </div>
             <div class="col-lg-12">
-              <div class="features-item second-feature last-features-item wow fadeInUp mb-5" data-wow-duration="1s" data-wow-delay="0.6s">
+              <div class="features-item second-feature last-features-item wow fadeInUp mb-5 mt-5" data-wow-duration="1s" data-wow-delay="0.6s">
                 <div class="fourth-number number">
                   <h6>02</h6>
                 </div>
