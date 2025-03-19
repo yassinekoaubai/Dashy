@@ -5,29 +5,53 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="row">
-          <div class="col-lg-6 align-self-center">
+          <div class="col-lg-12 align-self-center">
             <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
               <div class="row">
-                <div class="col-lg-4 col-sm-4">
-                  <div class="info-stat">
-                    <h6>Agency Status:</h6>
-                    <h4>Ready Work</h4>
+                <div class="col-lg-6">
+                  <h2>Digitalisez votre business avec Dashy</h2>
+                </div>
+                <div class="col-lg-8 mb-5">
+                  <h6><strong>Un DataSmart intelligent et un SoftPOS innovant pour optimiser votre relation client et simplifier vos paiements.<br>
+                      <span class="text-success">+50% </span>de productivité grâce à l'automatisation des interactions clients
+                      <span class="text-success"> +100%</span> sécurisé, conforme aux normes bancaires internationales
+                      Visuel + CTA Découvrez Dashy
+                    </strong>
+                  </h6>
+                </div>
+                <div class="row mb-5">
+                  <div class="col-lg-4 col-sm-4">
+                    <div class="info-stat">
+                      <h6>• 🚀 DataSmart :</h6>
+                      <h4>Gestion avancée des leads et automatisation des interactions clients réduisant de plus de 50% des tâches répétitives.</h4>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-sm-4">
+                    <div class="info-stat">
+                      <h6>• 💳 Solution de paiement SoftPOS :</h6>
+                      <h4>Paiement sans contact ultra-sécurisé transformant chaque smartphone en terminal de paiement.</h4>
+                    </div>
+                  </div>
+                  <div class="col-lg-4 col-sm-4">
+                    <div class="info-stat">
+                      <h6>• 🤖 Intelligence artificielle :</h6>
+                      <h4>Analyse, qualification et segmentation avancée pour une stratégie client optimisée. </h4>
+                    </div>
                   </div>
                 </div>
-                <div class="col-lg-4 col-sm-4">
-                  <div class="info-stat">
-                    <h6>Price:</h6>
-                    <h4>$720/Month</h4>
+                <div class="row mb-5">
+                  <div class="col-lg-6 col-sm-4">
+                    <div class="info-stat">
+                      <h6>•	🔒   Conformité et sécurité :</h6>
+                      <h4>Protection des transactions et des données clients. </h4>
+                    </div>
                   </div>
-                </div>
-                <div class="col-lg-4 col-sm-4">
-                  <div class="info-stat">
-                    <h6>Schedules</h6>
-                    <h4>$450/Meeting</h4>
+                  <div class="col-lg-6 col-sm-4">
+                    <div class="info-stat">
+                      <h6>•	🌍 Portée internationale : </h6>
+                      <h4>nos solutions sont utilisées dans plusieurs pays d'Afrique et au Moyen-Orient.</h4>
+                    </div>
                   </div>
-                </div>
-                <div class="col-lg-12">
-                  <h2>SEO &amp; Digital Marketing Agency</h2>
                 </div>
                 <div class="col-lg-12">
                   <div class="main-green-button scroll-to-section">
@@ -49,13 +73,12 @@
 </div>
 
 <div id="features" class="features section">
-  <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="features-content">
           <div class="row">
-            <div class="col-lg-12">
-              <div class="features-item first-feature wow fadeInUp mb-5 mb-5" data-wow-duration="1s" data-wow-delay="0s">
+            <div class="col-lg-4 mx-auto mt-3">
+              <div class="features-item first-feature wow fadeInUp mb-5" data-wow-duration="1s" data-wow-delay="0s">
                 <div class="first-number number">
                   <h6>01</h6>
                 </div>
@@ -65,7 +88,7 @@
                 <p>Dashy est née d’une conviction forte : l’inclusion financière ne doit pas être un privilège, mais un droit accessible à tous. Nous nous positionnons comme un trait d’union entre nos partenaires et leurs clients en proposant des solutions intelligentes et flexibles.</p>
               </div>
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-4 mx-auto">
               <div class="features-item second-feature last-features-item wow fadeInUp mb-5 mt-5" data-wow-duration="1s" data-wow-delay="0.6s">
                 <div class="fourth-number number">
                   <h6>02</h6>
@@ -76,8 +99,8 @@
                 <p>Nous créons des solutions intelligentes et pragmatiques qui bâtissent un écosystème financier plus inclusif et performant.</p>
               </div>
             </div>
-            <div class="col-lg-12">
-              <div class="features-item second-feature wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+            <div class="col-lg-4 mx-auto mb-3">
+              <div class="features-item second-feature wow fadeInUp mt-5" data-wow-duration="1s" data-wow-delay="0.2s">
                 <div class="second-number number">
                   <h6>03</h6>
                 </div>
@@ -90,11 +113,10 @@
           </div>
         </div>
       </div>
-    </div>
   </div>
 </div>
-    </div>
-  </div>
+</div>
+</div>
 </div>
 
 <div id="about" class="about-us section">
@@ -102,23 +124,31 @@
     <div class="row">
       <div class="col-lg-6">
         <div class="left-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-          <img src="assets/images/about-left-image.png" alt="">
+          <img src="../lms-theme/assets/images/about-left-image.png">
         </div>
       </div>
-      <div class="col-lg-6 align-self-center wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-        <div class="section-heading">
-          <h2><em>Notre</em> Expertise &amp; </h2>
+      <div class="container expertise-section">
+        <div class="row justify-content-center">
+          <div class="col-lg-8 align-self-center wow animate__animated animate__fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+            <div class="section-heading">
+              <h2><em>Notre</em> Expertise</h2>
+            </div>
+            <h6><strong>Dashy fait partie d’un groupe d’entreprises spécialisées dans les solutions financières et digitales :</strong></h6>
+            <ul class="mb-5 ">
+              <li class="ml-5"><br><strong>Finacsys :</strong> Solution dédiée à l’inclusion financière et l’instruction de crédit déployée auprès de plusieurs institutions bancaires africaines.</li>
+              <li class="ml-5"><br><strong>Capdev :</strong> Transformation digitale et intégration de CoreBanking dans plusieurs pays en Afrique.</li>
+              <li class="ml-5"><br><strong>Dashy :</strong> Intégration en amont des processus business des partenaires via un DataSmart aligné aux stratégies de développement de nos partenaires avec des solutions de paiement innovantes.</li>
+            </ul>
+            <div class="main-green-button text-center">
+              <a href="#">Discover company</a>
+            </div>
+          </div>
         </div>
-        <p>Dashy fait partie d’un groupe d’entreprises spécialisées dans les solutions financières et digitales :<br>
-             Finacsys : solution dédiée à l’inclusion financière et l’instruction de crédit déployée auprès de plusieurs institutions bancaires africaines.<br>
-            Capdev : Transformation digitale et intégration de CoreBanking dans plusieurs pays en Afrique.<br>
-            Dashy : Intégration en amont des processus business des partenaires via un DataSmart aligné aux stratégies de développement de nos partenaires avec des solutions de paiement innovantes.</p>
-        <div class="main-green-button"><a href="#">Discover company</a></div>
       </div>
     </div>
   </div>
 </div>
-
+<!-- ToDo services -->
 <div id="services" class="our-services section">
   <div class="container">
     <div class="row">
@@ -461,7 +491,6 @@
   </div>
 </footer>
 
-<!-- Scripts -->
 <?php wp_footer() ?>
 
 </body>

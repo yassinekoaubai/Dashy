@@ -104,6 +104,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
+  overflow-x: hidden;
   background-color: #fff;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -934,12 +935,13 @@ Features Style
 */
 
 #features {
-  padding-top: 130px;
+  padding-top: 70px;
   width: 100%
 }
 
 .features .features-content {
   z-index: 2;
+  width: 100%;
   position: relative;
   background-color: #fff;
   border-radius: 50px;
