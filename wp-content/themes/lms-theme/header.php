@@ -35,7 +35,7 @@
         <div class="col-12">
           <nav class="main-nav">
             <a href="index.html" class="logo">
-              <h4>SEO Dream <img src="assets/images/logo-icon.png" alt=""></h4>
+              <h4>Dashy <img src="/wp-content/themes/lms-theme/assets/images/Logo-Dashy.svg" alt=""></h4>
             </a>
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
@@ -45,7 +45,7 @@
               <li class="scroll-to-section"><a href="#portfolio">Portfolio</a></li>
               <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
               <li class="scroll-to-section">
-                <div class="main-blue-button"><a href="#contact">Get Your Quote</a></div>
+                <div class="main-blue-button"><a href="#contact">Get Started</a></div>
               </li>
             </ul>
             <a class='menu-trigger'>
