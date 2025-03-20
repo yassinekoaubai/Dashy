@@ -35,7 +35,7 @@
         <div class="col-12">
           <nav class="main-nav">
             <a href="index.html" class="logo">
-              <h4>Dashy <img src="../lms-theme/assets/images/logo-icon.png" alt=""></h4>
+              <h4>Dashy <img src="/wp-content/themes/lms-theme/assets/images/Logo-Dashy.svg" alt=""></h4>
             </a>
             <ul class="nav">
               <li class="scroll-to-section"><a href="#top" class="active">Home</a></li>
